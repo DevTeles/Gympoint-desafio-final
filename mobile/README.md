@@ -46,3 +46,7 @@ yarn react-native run-android
 **_Você precisa criar um novo aluno no projeto Gympoint WEB para entrar com o ID do aluno_**
 
 ---
+
+## Demonstração
+
+[Mobile](https://github.com/DevTeles/Gympoint-desafio-final/blob/master/mobile/src/assets/mobile.gif)
