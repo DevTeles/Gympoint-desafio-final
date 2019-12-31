@@ -1,0 +1,4 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">TrZpQmHWE_rBtAjC64RtsRK-EyjyrPyEpxYo_</string>
+    <string name="app_name">gympoint</string>
+</resources>

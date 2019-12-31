@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4096"
+   height="4096"
+   viewBox="0 0 1083.7333 1083.7334"
+   version="1.1"
+   id="svg4527"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="splash_screen.svg">
+  <defs
+     id="defs4521" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.061871843"
+     inkscape:cx="-3128.9295"
+     inkscape:cy="1117.5944"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4524">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,786.73335)">
+    <g
+       id="g824"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="-788.54761"
+         x="-1.8142742"
+         height="1094.6191"
+         width="1100.6666"
+         id="rect5093"
+         style="fill:#ee4e62;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332" />
+      <g
+         style="fill:#ffffff"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         transform="matrix(8.5948295,0,0,10.272076,273.4802,-663.67614)"
+         id="g4">
+        <g
+           style="fill:#ffffff"
+           id="Clocks_1_">
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             data-old_color="#000000"
+             class="active-path"
+             data-original="#000000"
+             d="M 63.022,26.237 C 62.357,25.439 61.421,24.982 60.454,24.982 H 59 v -1.174 c 0,-2.109 -1.832,-3.826 -4.083,-3.826 H 53 v -2.167 c 0,-1.02 -0.435,-2.015 -1.192,-2.731 -1.506,-1.423 -4.109,-1.423 -5.615,0 C 45.435,15.801 45,16.796 45,17.816 V 27.983 H 19 V 17.816 c 0,-1.02 -0.434,-2.015 -1.192,-2.731 -1.506,-1.423 -4.109,-1.423 -5.615,0 C 11.435,15.801 11,16.796 11,17.816 v 2.167 H 8.85 c -1.011,0 -1.967,0.365 -2.693,1.028 C 5.422,21.686 5,22.628 5,23.594 v 1.388 H 3.56 c -0.972,0 -1.912,0.459 -2.579,1.26 C 0.349,27.002 0,28.001 0,29.054 v 5.856 c 0,1.053 0.349,2.052 0.982,2.812 0.667,0.801 1.607,1.26 2.578,1.26 H 5 v 1.388 c 0,0.966 0.422,1.908 1.159,2.585 0.724,0.662 1.68,1.027 2.691,1.027 H 11 v 2.167 c 0,1.02 0.435,2.015 1.192,2.73 0.753,0.711 1.75,1.103 2.808,1.103 1.058,0 2.055,-0.392 2.808,-1.103 C 18.566,48.163 19,47.168 19,46.149 V 35.982 h 26 v 10.167 c 0,1.02 0.435,2.015 1.192,2.73 0.753,0.711 1.75,1.103 2.808,1.103 1.058,0 2.055,-0.392 2.808,-1.103 C 52.565,48.163 53,47.168 53,46.149 v -2.167 h 1.917 c 2.251,0 4.083,-1.716 4.083,-3.826 v -1.174 h 1.454 c 0.967,0 1.903,-0.458 2.569,-1.255 0.63,-0.757 0.978,-1.751 0.978,-2.8 V 29.038 C 64,27.989 63.653,26.994 63.022,26.237 Z M 3.56,36.982 C 3.179,36.982 2.809,36.79 2.519,36.442 2.189,36.047 2,35.488 2,34.91 v -5.856 c 0,-0.578 0.189,-1.136 0.519,-1.532 0.29,-0.348 0.66,-0.54 1.041,-0.54 H 5 v 10 z m 5.29,5 C 8.347,41.982 7.858,41.799 7.511,41.481 7.181,41.178 7,40.784 7,40.37 v -2.388 -12 -2.388 C 7,23.18 7.181,22.785 7.509,22.484 7.859,22.165 8.347,21.982 8.85,21.982 H 11 v 20 z M 17,46.149 c 0,0.479 -0.201,0.932 -0.565,1.276 -0.75,0.708 -2.119,0.708 -2.869,0 C 13.201,47.081 13,46.627 13,46.149 v -3.167 -22 -3.167 c 0,-0.479 0.201,-0.932 0.565,-1.276 0.375,-0.354 0.898,-0.557 1.435,-0.557 0.537,0 1.06,0.203 1.435,0.557 0.364,0.344 0.565,0.798 0.565,1.277 v 11.167 6 z m 2,-12.167 v -4 h 26 v 4 z m 32,12.167 c 0,0.479 -0.201,0.932 -0.565,1.276 -0.75,0.708 -2.119,0.708 -2.869,0 C 47.201,47.081 47,46.627 47,46.149 v -11.167 -6 -11.166 c 0,-0.479 0.201,-0.932 0.565,-1.276 0.375,-0.354 0.898,-0.557 1.435,-0.557 0.537,0 1.06,0.203 1.435,0.557 0.364,0.343 0.565,0.797 0.565,1.276 v 3.167 22 z m 6,-5.993 c 0,1.007 -0.934,1.826 -2.083,1.826 H 53 v -20 h 1.917 c 1.148,0 2.083,0.819 2.083,1.826 v 2.174 12 z m 5,-5.23 c 0,0.574 -0.188,1.127 -0.514,1.52 -0.288,0.346 -0.655,0.536 -1.032,0.536 H 59 v -10 h 1.454 c 0.377,0 0.744,0.19 1.032,0.536 0.327,0.392 0.514,0.946 0.514,1.52 z"
+             id="Clocks" />
+        </g>
+      </g>
+      <text
+         id="text5097"
+         y="-50.738102"
+         x="369.08124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.55555725px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.55555725px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="-50.738102"
+           x="369.08124"
+           id="tspan5095"
+           sodipodi:role="line">GYMPOINT</tspan></text>
+    </g>
+  </g>
+</svg>
