@@ -3,7 +3,7 @@
 </h3>
 
 
-## :android: Mobile
+## :android Mobile
 
 ## Pré requisitos
 
@@ -49,4 +49,4 @@ yarn react-native run-android
 
 ## Demonstração
 
-[Mobile](https://github.com/DevTeles/Gympoint-desafio-final/blob/master/mobile/src/assets/mobile.gif)
+![mobile](https://user-images.githubusercontent.com/53085758/71630524-33ce9000-2be2-11ea-9108-20fd8570cb05.gif)
