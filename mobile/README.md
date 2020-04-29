@@ -1,4 +1,12 @@
 <h3 align="center">
+  ## Demonstração
+</h3>
+
+<h3 align="center">    
+   <img src="https://user-images.githubusercontent.com/53085758/71630524-33ce9000-2be2-11ea-9108-20fd8570cb05.gif" />
+</h3>
+
+<h3 align="center">
     Mobile React Native - GoStack Bootcamp  <a href="https://rocketseat.com.br" target="__blank">Rocketseat</a>
 </h3>
 
@@ -45,8 +53,3 @@ yarn react-native run-android
 
 **_Você precisa criar um novo aluno no projeto Gympoint WEB para entrar com o ID do aluno_**
 
----
-
-## Demonstração
-
-![mobile](https://user-images.githubusercontent.com/53085758/71630524-33ce9000-2be2-11ea-9108-20fd8570cb05.gif)
